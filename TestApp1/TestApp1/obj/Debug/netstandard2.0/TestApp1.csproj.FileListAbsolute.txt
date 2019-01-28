@@ -1,0 +1,12 @@
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\bin\Debug\netstandard2.0\TestApp1.deps.json
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\bin\Debug\netstandard2.0\TestApp1.dll
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\bin\Debug\netstandard2.0\TestApp1.pdb
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.csprojAssemblyReference.cache
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.csproj.CoreCompileInputs.cache
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.AssemblyInfoInputs.cache
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.AssemblyInfo.cs
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.dll
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1\obj\Debug\netstandard2.0\TestApp1.pdb

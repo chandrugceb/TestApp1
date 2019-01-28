@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestApp1"
+             x:Class="TestApp1.MainPage">
+
+    <StackLayout>
+        
+        <Label Text="Welcome to Xamarin.Forms!" 
+           HorizontalOptions="Center"
+           VerticalOptions="StartAndExpand" />
+
+        <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Orientation="Vertical">
+            <Entry Placeholder="Enter URL" HorizontalOptions="StartAndExpand" x:Name="urlEntry" WidthRequest="500"/>
+            <Button Text="Download File" Clicked="Button_Clicked" HorizontalOptions="Center"/>
+
+            <ActivityIndicator x:Name="activityIndicator" IsVisible="False" IsRunning="False" />
+        </StackLayout>
+       
+
+
+    </StackLayout>
+
+</ContentPage>
