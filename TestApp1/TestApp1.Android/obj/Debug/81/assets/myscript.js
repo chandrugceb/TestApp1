@@ -1,5 +1,6 @@
 function highlightSelection() {
     var userSelection = window.getSelection();
+    
     for(var i = 0; i < userSelection.rangeCount; i++) {
         highlightRange(userSelection.getRangeAt(i));
     }

@@ -55,6 +55,7 @@ C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\bin\Debug\Syst
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\bin\Debug\System.IO.Compression.pdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\bin\Debug\TestApp1.dll.mdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\linksrc\TestApp1.Android.pdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -77,7 +78,6 @@ C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\l
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\linksrc\System.IO.Compression.pdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
-C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\bin\Debug\TestApp1.dll.mdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\linksrc\TestApp1.dll.mdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\android\assets\TestApp1.dll.mdb
 C:\Users\surbhi01\source\repos\TestApp1\TestApp1\TestApp1.Android\obj\Debug\81\android\assets\FormsViewGroup.pdb

@@ -21,7 +21,8 @@ namespace TestApp1.Droid
 
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-           // WriteFile();
+            global::Android.Webkit.WebView.SetWebContentsDebuggingEnabled(true);
+            // WriteFile();
             LoadApplication(new App());
         }
 
